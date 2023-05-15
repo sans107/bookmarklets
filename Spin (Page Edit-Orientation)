@@ -1,0 +1,1 @@
+javascript:var settingtransitionduration = document.body.style.transition = "transform 3s"; var settingtransformproperty = document.body.style.transform = "rotate(360deg)"; var settingtimeout = setTimeout(function() {var resettingtransitionduration = document.body.style.transition = "initial"; var resettingtransitionproperty = document.body.style.transform = "initial";}, 3000);
